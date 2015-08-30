@@ -9,12 +9,6 @@ https://sirarsmobileservice.azure-mobile.net/
 
 https://sirarsmobileservice.scm.azure-mobile.net/sirarsmobileservice.git
 
-<h3>Source Control Credentials</h3>
-
-User: sirar
-<br />
-Pass: **********
-
 <h3>Scheduler Job Scripts</h3>
 All scripts are written with node.
 <h4>email_sender_phone_raspi.js</h4>
