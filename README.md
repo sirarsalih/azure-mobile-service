@@ -14,3 +14,13 @@ https://sirarsmobileservice.scm.azure-mobile.net/sirarsmobileservice.git
 User: sirar
 <br />
 Pass: **********
+
+<h3>Scheduler Job Scripts</h3>
+
+email_sender_raspi.js
+<br />
+if_hackathon_2015_tweet_it_read_it.js
+<br />
+nnug_oslo_twitter_bot.js
+<br />
+nnug_twitter_bot.js
