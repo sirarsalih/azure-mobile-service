@@ -17,7 +17,7 @@ Pass: **********
 
 <h3>Scheduler Job Scripts</h3>
 
-email_sender_raspi.js
+email_sender_phone_raspi.js
 <br />
 if_hackathon_2015_tweet_it_read_it.js
 <br />
