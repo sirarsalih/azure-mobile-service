@@ -20,7 +20,7 @@ All scripts are written with node.
 <h4>email_sender_phone_raspi.js</h4>
 Checks the heart beat of https://raspi.sirars.com/. If status code != 200 or request error, then an e-mail and SMS is sent to me.
 <br />
-<h4>if_hackathon_2015_tweet_it_read_it.js</h4>
+<h4>if_hackathon_2015_tweet_it_read_it.js (disabled)</h4>
 Twitter bot created as a proof of concept during the If Skadeforsikring Hackathon 2015. The bot uses its own Twitter account (@IfHackathon2015) and if you ask it the right question by direct message, it will respond to you. 
 <br />
 <h4>nnug_oslo_twitter_bot.js</h4>
