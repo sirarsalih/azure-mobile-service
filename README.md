@@ -27,3 +27,7 @@ Duration: Every 24 hours
 Twitter bot that tweets on behalf of all NNUG chapters. Requests data from all the NNUG meetup sites at http://www.meetup.com and tweets upcoming events periodically. In addition, requests data from https://vimeo.com/nnug and tweets recently added videos periodically.
 <br />
 Duration: Every 24 hours
+<h4>angular_oslo_twitter_bot.js</h4>
+Twitter bot that tweets on behalf of @AngularOslo. Requests data from http://www.meetup.com/AngularJS-Oslo/ and tweets upcoming events periodically. In addition, requests data from https://vimeo.com/channels/angularjs and tweets recently added videos periodically.
+<br />
+Duration: Every 24 hours
